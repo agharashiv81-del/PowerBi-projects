@@ -6,7 +6,8 @@ This repository contains Power BI dashboard projects created for data analysis a
 
 ## Projects
 
-- Blinkit Sales Dashboard
+- mobile sales analysis dashboard
+- Sales performance analysis dashboard
 
 ## Tools Used
 
