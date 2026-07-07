@@ -62,7 +62,7 @@ The dashboard is created using a retail sales dataset containing the following f
 - Ship Mode
 - Segment
 - City
-- State
+
 - Region
 - Category
 - Sub-Category
